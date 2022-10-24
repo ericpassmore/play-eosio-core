@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@greymass/eosio": "^0.6.4",
+    "node-fetch": "^3.2.10"
+  },
+  "name": "play-eosio-core",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "play eosio core",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "doit": "ts-node-esm *.ts"
+  },
+  "author": "eric passmore",
+  "license": "ISC"
+}
